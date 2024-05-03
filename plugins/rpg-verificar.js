@@ -20,7 +20,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   m.reply(`╭「*BC*」
 │➯⛥❏[🌴] *HOLA YA ESTAS REGISTRADO*
 │➯⛥❏[🤴] *NOMBRE* ${name}
-│➯⛥❏[🏧] *EDAD* ${age} AÑOS 
+│➯⛥❏[🏧] *EDAD* ${age} *AÑOS*
 │➯⛥❏[™️] *NUMERO DE SERIE*
 │➯⛥❏[✔️]${sn}
 ︎╰───────────────╯
